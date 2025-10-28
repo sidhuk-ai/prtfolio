@@ -1,18 +1,6 @@
+# 🌐 Smith - Personal Portfolio Website
+
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/smith-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/smith-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/smith-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BbCLWdF3Bnc?style=social)](https://youtu.be/BbCLWdF3Bnc)
-
-  <br />
-  <br />
-
-  <h2 align="center">Smith - Personal Portfolio Website</h2>
-
-  Smith is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
   <a href="https://codewithsadee.github.io/smith-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
@@ -23,32 +11,65 @@
 
 ![Smith-portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
+A **fully responsive personal portfolio website** built with **HTML, CSS, and JavaScript**.  
+Designed to showcase projects, skills, and experience in a clean, modern layout.
+
+## 🚀 Features
+
+- Responsive design for **desktop, tablet, and mobile**
+- Smooth scrolling and interactive UI elements
+- Sections for **About, Skills, Portfolio, Timeline, News, and Contact**
+- Beginner‑friendly codebase (plain HTML, CSS, JS - no frameworks)
+- Accessibility improvements and hackathon‑ready tasks
+
+## 📂 Project Structure
+
+```
+prtfolio/
+│── assets/           # Images, icons, and media
+│── readme-images/    # Screenshots for README
+│── index.html        # Main HTML file
+│── style-guide.md    # Style guide for contributors
+│── TASKS.md          # Hackathon tasks/issues
+│── README.md         # Project documentation
+```
+
+## 🛠️ Getting Started
+
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- Install [Git](https://git-scm.com/) on your system.
+- A modern browser (Chrome, Firefox, Edge, Safari).
 
 ### Run Locally
 
-To run **Smith-portfolio** locally, run this command on your git bash:
-
-Linux and macOS:
+Clone the repository and open `index.html` in your browser:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/smith-portfolio.git
+git clone https://github.com/sidhuk-ai/prtfolio.git
+cd prtfolio
 ```
 
-Windows:
+Then simply open `index.html` in your browser.
 
-```bash
-git clone https://github.com/codewithsadee/smith-portfolio.git
-```
+## 🧑‍💻 Contributing
 
-### Contact
+We welcome contributions! 🎉
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+- Check out [TASKS.md](https://copilot.microsoft.com/chats/TASKS.MD) for **beginner, intermediate, and advanced issues**.
+- Each issue includes **description, requirements, and acceptance criteria**.
+- Fork the repo, create a branch, and submit a pull request.
 
-### License
+## 📸 Screenshots
 
-This project is **free to use** and does not contains any license.
+
+![Smith-portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+## 📬 Contact
+
+Cloned & Improved by [Siddharth](https://github.com/sidhuk-ai).  
+For queries, reach out via GitHub Issues.
+
+## 📄 License
+
+This project is **free to use** and currently has **no license**.

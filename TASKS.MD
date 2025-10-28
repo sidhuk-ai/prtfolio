@@ -1,6 +1,6 @@
-# 🧭 Smith Portfolio – Improvement Task List
+# 🧭 Portfolio – Improvement Task List
 
-This document outlines enhancement tasks for the **Smith Portfolio** project.  
+This document outlines enhancement tasks for the **Portfolio** project.  
 Tasks are categorized into **Basic**, **Intermediate**, and **Advanced** levels to help contributors choose issues that match their skill set.
 
 Each task includes a **Description**, **Requirements**, and **Acceptance Criteria**.
@@ -326,6 +326,7 @@ Make the News section auto‑scroll horizontally with smooth sliding.
 ### 10\. Interactive Vertical Timeline with Scroll Reveal
 
 **Description:**
+
 Transform static timeline into **vertical layout with scroll‑triggered animations**.
 
 
