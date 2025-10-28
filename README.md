@@ -56,7 +56,7 @@ Then simply open `index.html` in your browser.
 
 We welcome contributions! 🎉
 
-- Check out [TASKS.md](https://copilot.microsoft.com/chats/TASKS.MD) for **beginner, intermediate, and advanced issues**.
+- Check out [TASKS.md](https://github.com/sidhuk-ai/prtfolio/blob/main/TASKS.MD) for **beginner, intermediate, and advanced issues**.
 - Each issue includes **description, requirements, and acceptance criteria**.
 - Fork the repo, create a branch, and submit a pull request.
 

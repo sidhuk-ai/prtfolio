@@ -45,7 +45,7 @@ This project is designed to be **beginner‑friendly** and **open to all skill l
 
 ## 🧑‍💻 Contribution Guidelines
 
--   Check [TASKS.md](https://github.com/sidhuk-ai/prtfolio/blob/main/TASKS.md) for available issues (Basic, Intermediate, Advanced).
+-   Check [TASKS.md](https://github.com/sidhuk-ai/prtfolio/blob/main/TASKS.MD) for available issues (Basic, Intermediate, Advanced).
 -   Each issue includes **description, requirements, and acceptance criteria**.
 -   Stick to **plain HTML, CSS, and vanilla JS** (no frameworks).
 -   Ensure your code is **responsive and accessible**.
