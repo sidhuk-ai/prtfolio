@@ -160,7 +160,7 @@ Animate skill bars filling when scrolled into viewport.
 
  - Works on desktop, tablet, and mobile screen sizes.
 
- - No external libraries used — only HTML, CSS, and vanilla JS.
+ - No external libraries used - only HTML, CSS, and vanilla JS.
     
 
 ### 5\. Add Dark Mode Toggle
@@ -284,6 +284,7 @@ The contact form reloads the page upon submission.
 ### 9\. News Section Auto‑Slider
 
 **Description:**  
+
 Make the News section auto‑scroll horizontally with smooth sliding.
 
 
@@ -320,7 +321,7 @@ Make the News section auto‑scroll horizontally with smooth sliding.
 
  - Fully responsive on all screen sizes.
 
- - No external libraries used — only HTML, CSS, and vanilla JS.
+ - No external libraries used - only HTML, CSS, and vanilla JS.
 
 
 ### 10\. Interactive Vertical Timeline with Scroll Reveal
